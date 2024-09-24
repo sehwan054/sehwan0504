@@ -20,10 +20,6 @@
 
 <div align="left">
 
-  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sehwan054&theme=flat&column=8)](https://github.com/pic1085/)
-
 
 ---
 

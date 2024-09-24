@@ -40,7 +40,6 @@
 <code><img alt="C" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> C</code>
 <code><img alt="Java" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> java</code>
 <code><img alt="JavaScript" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> javascript</code>
-<code><img alt="React Native" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> react native</code>
 
 **사용 에디터**
 

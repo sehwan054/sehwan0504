@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69C1E9&lines=Welcome,+i'm+SeHwan_Kim&font=Redressed&size=38)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=timeAuto&lines=Welcome,+i'm+SeHwan_Kim&font=Redressed&size=38)](https://git.io/typing-svg)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saehwan0504)](https://solved.ac/saehwan0504/)
 

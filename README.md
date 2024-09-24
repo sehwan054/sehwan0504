@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69C1E9&lines=Welcome,+i'm+SeHwan_Kim&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69C1E9&lines=Welcome,+i'm+SeHwan_Kim&font=Redressed&size=38)](https://git.io/typing-svg)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saehwan0504)](https://solved.ac/saehwan0504/)
 
@@ -22,7 +22,7 @@
 
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=pic1085&theme=flat&column=8)](https://github.com/pic1085/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sehwan054&theme=flat&column=8)](https://github.com/pic1085/)
 
 
 ---

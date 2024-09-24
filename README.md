@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69C1E9&lines=Welcome,+i'm+SeHwan_Kim&font=Redressed&size=40)](https://git.io/typing-svg)
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saehwan0504)](https://solved.ac/incheol2250/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saehwan0504)](https://solved.ac/saehwan0504/)
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <div style="flex: 1; text-align: center;">

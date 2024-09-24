@@ -10,8 +10,8 @@
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <div style="flex: 1; text-align: center;">
     <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&layout=donut&theme=dracula" style="max-width: 100%; width: 300px;" />
-      <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=nightowl&show_icons=true" style="max-width: 100%; width: 300px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehwan054&layout=donut&theme=dracula" style="max-width: 100%; width: 300px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sehwan054&theme=nightowl&show_icons=true" style="max-width: 100%; width: 300px;" />
     </a>
   </div>
 </div>

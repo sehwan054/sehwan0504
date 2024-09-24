@@ -46,7 +46,6 @@
 
 <code><img alt="VS Code" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VS Code</code>
 <code><img alt="Visual Studio" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> Visual Studio</code>
-<code><img alt="IntelliJ" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"> IntelliJ</code>
 
 </details>
 <br />

@@ -36,13 +36,12 @@
 
 <code><img alt="Python" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> python</code>
 <code><img alt="C" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> C</code>
-<code><img alt="Java" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> java</code>
-<code><img alt="JavaScript" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> javascript</code>
+
 
 **사용 에디터**
 
 <code><img alt="VS Code" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VS Code</code>
-<code><img alt="Visual Studio" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> Visual Studio</code>
+
 
 </details>
 <br />
